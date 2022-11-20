@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This XML Document holds License Information -->
+<driversLicense status="active">
+	<Number>131	</Number>
+	<firstName>Shanmukha Anirudh</firstName>
+	<lastName>Talluri</lastName>
+	<dateOfBirth>23/11/1999</dateOfBirth>
+	<vehicleType>Car</vehicleType> 
+	<dateOfIssue>20/08/2020</dateOfIssue>
+	<expiryDate>01/01/2028</expiryDate>
+	<image location="servername/filename"></image>
+	<Address>
+		<street>bjp colony</street>
+		<city>Nellore</city>
+		<state>Andhra Pradesh</state>
+		<country>India</country>
+		<pincode>524004</pincode>
+	</Address>
+</driversLicense>

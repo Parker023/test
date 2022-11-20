@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pal:reservation
+	xmlns:pal="http://www.ParkerAirLines.com/Resercation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.ParkerAirLines.com/Resercation Resercation.xsd ">
+	<pal:flight>
+		<pal:flightNumber>2020</pal:flightNumber>
+		<pal:operatingAirlines>Indigo</pal:operatingAirlines>
+		<pal:arrivalCity>pal:arrivalCity</pal:arrivalCity>
+		<pal:dateofDeparture>2001-01-01</pal:dateofDeparture>
+		<pal:estimatedDepartureTime>12:00:00</pal:estimatedDepartureTime>
+	</pal:flight>
+	<pal:passenger>
+		<pal:lastName>pal:lastName</pal:lastName>
+		<pal:firstName>pal:firstName</pal:firstName>
+		<pal:middleName>pal:middleName</pal:middleName>
+		<pal:email>ani@gmail.com</pal:email>
+		<pal:phoneNumber>8234567891</pal:phoneNumber>
+	</pal:passenger>
+</pal:reservation>
